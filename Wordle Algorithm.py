@@ -1,3 +1,5 @@
+# Testing first git update!
+
 from numpy import *
 
 my_file = open("Words", "r")
